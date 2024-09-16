@@ -37,5 +37,8 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		<li>edb.preparecarefully</li>
 		<li>kentington.saveourship2</li>
 		<li>erdelf.humanoidalienraces</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>redmattis.betterprerequisites</li>
+		<li>chtech.core</li>
 	</loadBefore>
 </ModMetaData>
