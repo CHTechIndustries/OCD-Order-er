@@ -40,5 +40,6 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		<li>unlimitedhugs.hugslib</li>
 		<li>redmattis.betterprerequisites</li>
 		<li>chtech.core</li>
+		<li>chtech.core</li>
 	</loadBefore>
 </ModMetaData>
